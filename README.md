@@ -61,7 +61,7 @@ This repo's content is © 2025 DLYOG. Code, if added, will follow an open or res
 ## 📬 Contact
 
 For press, partnerships, or early access:
-📧 hello@dlyog.com  
+📧 info@dlyog.com  
 🌐 https://dlyog.com  
 🐦 Twitter: [@dlyog](https://twitter.com/dlyog)
 
